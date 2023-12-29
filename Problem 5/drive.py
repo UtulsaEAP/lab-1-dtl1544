@@ -5,4 +5,12 @@ Name:
 Lab Time:
 '''
 
-#Type your code here.
+def drive():
+    #Type your code here
+    #Get input make sure it is numeric
+    miles_per_gallon = input()
+    dollars_per_gallon = input()
+    
+
+if __name__ == "__main__":
+    drive()

@@ -6,4 +6,9 @@ Lab Time:
 
 '''
 
-#Type your code here
+def formatted_output():
+    #Type your code here
+    print()
+
+if __name__ == "__main__":
+    formatted_output()

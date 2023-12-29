@@ -9,4 +9,10 @@ Lab Time:
 '''
 import math
 
-''' Type your code here. '''
+def math_func():
+    #Type your code here
+    
+    print()
+    
+if __name__ == "__main__":
+    math_func()

@@ -6,4 +6,10 @@ Name:
 Lab Time:
 '''
 
-''' Type your code here. '''
+def calculate_calories_burned():
+    #Type your code here
+    #Get input make sure it is numeric
+    age_years = input()
+
+if __name__ == "__main__":
+    calculate_calories_burned()
